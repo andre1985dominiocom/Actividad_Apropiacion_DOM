@@ -16,15 +16,24 @@ RTA: Se ha agregado contenido a los nuevos elementos de párrafo utilizando la p
 RTA: Se ha insertado el nuevo elemento dentro de la página utilizando el método appendChild
 
 
-Mientras desarrollas la actividad, responde por escrito:
+# Mientras desarrollas la actividad, responde por escrito:
+
 • ¿Qué elemento del DOM estás seleccionando?
+
 RTA: Estoy seleccionando el título (h1), el párrafo (p) y el botón (button) del DOM utilizando document.querySelector().
+
 • ¿Qué evento provoca el cambio en la página?
-RTA: El evento que provoca el cambio en la página es el evento de clic (click) en el botón. 
-Al hacer clic en el botón, se ejecuta la función que cambia el color del título y del párrafo, y también crea nuevos elementos en la página.
+
+RTA: El evento que provoca el cambio en la página es el evento de clic (click) en el botón. Al hacer clic en el botón, se ejecuta la función que cambia el color del título y del párrafo, y también crea nuevos elementos en la página.
+
 • ¿Qué nuevo elemento se crea?
+
 RTA: Se crean nuevos elementos <p> (párrafos) que contienen mensajes sobre los colores a mostrar.
+
 • ¿Dónde se inserta ese elemento dentro del DOM?
+
 RTA: Los nuevos elementos se insertan dentro del cuerpo del documento (document.body) utilizando el método appendChild().
+
 • ¿Qué ocurre en la página cada vez que repites la acción?
+
 RTA: Cada vez que haces clic en el botón, se crean nuevos párrafos con los mensajes correspondientes a los colores, y se cambian los colores del título y del párrafo.
