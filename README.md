@@ -1,3 +1,5 @@
+## Preguntas Actividad de Apropiación
+
 1. Observa la estructura HTML entregada por el instructor.
 RTA: La estructura HTML consta de un título (h1), un párrafo (p) y un botón (button). 
 El título y el párrafo contienen información sobre los colores del arcoíris, 
